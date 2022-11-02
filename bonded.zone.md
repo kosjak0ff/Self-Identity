@@ -3,11 +3,11 @@
 # Validator bonded.zone
 
 ## Contacts:
-- [Web-page](https://bonded.zone/)
 - [Medium](https://bondedzone.medium.com/)
 - [Twitter](https://twitter.com/SKosjakoff)
 - [Telegram](https://t.me/kosjakoff)
 - [Discord](https://discord.com/users/864778911548309506)
+- [Web-page](https://bonded.zone/)
 - [Keybase](https://keybase.io/kosjakoff)
 
 
