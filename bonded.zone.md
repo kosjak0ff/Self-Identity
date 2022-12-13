@@ -21,6 +21,9 @@
 
 
 ## Active Testnets:
+- [Okp4](https://nemeton.okp4.network/leaderboard#leaderboard)
+- [Desmos](https://www.mintscan.io/desmos/validators/desmosvaloper13has6wzwyfyuq6r9j48cwugl6ajqw44gv0fa6k)
+- [BitCanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper1yyps9aer7ldm8tjayft68q8ay5l4nch0waf4yh)
 - [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1q4vdlk6ty7g04nylnnqdws8dffxtyns4l9uf9t)
 - [Multichain](https://testnet.multichain.tools/)
 - [Terp Network](https://www.skynetexplorers.com/terpnetwork/staking/terpvaloper105rzlcracxe9r32h8flpn4kpw8waqueqj7xlcz)
@@ -32,13 +35,13 @@
 - [Peaq](https://www.peaq.network/agung-testnet)
 - [Gear](https://www.gear-tech.io/)
 - [Masa](https://masa.finance/)
-- [DWS](https://explore.deweb.services/deweb/staking/dewebvaloper1qnmxn96dgv8h09vtf8ke4sj3u7970eafurgk2j)
 - [Celestia](https://celestia.explorers.guru/validator/celestiavaloper1g4vlhwtjym0t6vpaxr3eyp78nkekxgx2vjhjf9)
 - [Massa](https://massa.net/)
 - [Minima](https://minima.global/)
 
 
 ## Finished Testnets:
+- [DWS](https://explore.deweb.services/deweb/staking/dewebvaloper1qnmxn96dgv8h09vtf8ke4sj3u7970eafurgk2j)
 - [Obol](https://goerli.beaconcha.in/validator/0xb694a735117eaf0665a1b75dad154dc47d4ba5bbb29a792784834add2c44f6d4cc4247b90d31b0699cd71004ab90b061#deposits)
 - [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1n4wscfmgzrx2l0ynefnt90ehmy0uyplukfh979)
 - [Teritori](https://teritori.explorers.guru/validator/torivaloper14e9t9vrfmkuawv8mhxvt3ms8yxkc8z6rvaek8t)
@@ -86,6 +89,14 @@
 
 
 ### Community
+- [Translation - RIZON CosmWasm Smart Contract тестнет](https://bondedzone.medium.com/rizon-cosmwasm-smart-contract-%D1%82%D0%B5%D1%81%D1%82%D0%BD%D0%B5%D1%82-70f77d61e7cb)
+- [Translation - Анонс выпуска стейблкойна RIZON (RCHF)](https://bondedzone.medium.com/%D0%B0%D0%BD%D0%BE%D0%BD%D1%81-%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B0-%D1%81%D1%82%D0%B5%D0%B9%D0%B1%D0%BB%D0%BA%D0%BE%D0%B9%D0%BD%D0%B0-rizon-rchf-8d8d7817187b)
+- [Translation - Ежемесячный дайджест BitCanna — ноябрь 2022](https://bondedzone.medium.com/%D0%B5%D0%B6%D0%B5%D0%BC%D0%B5%D1%81%D1%8F%D1%87%D0%BD%D1%8B%D0%B9-%D0%B4%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82-bitcanna-%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8C-2022-6cff43722bc9)
+- [Translation - 🚨Анонс розыгрыша ФанТокена $D9X](https://bondedzone.medium.com/%D0%B0%D0%BD%D0%BE%D0%BD%D1%81-%D1%80%D0%BE%D0%B7%D1%8B%D0%B3%D1%80%D1%8B%D1%88%D0%B0-%D1%84%D0%B0%D0%BD%D1%82%D0%BE%D0%BA%D0%B5%D0%BD%D0%B0-d9x-29e03ad7e123)
+- [Translation - Ежемесячный дайджест BitCanna — октябрь 2022](https://bondedzone.medium.com/%D0%B5%D0%B6%D0%B5%D0%BC%D0%B5%D1%81%D1%8F%D1%87%D0%BD%D1%8B%D0%B9-%D0%B4%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82-bitcanna-%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C-2022-888b863cabd4)
+- [Translation - 🚨 Анонс розыгрыша $CLAY](https://bondedzone.medium.com/%D0%B0%D0%BD%D0%BE%D0%BD%D1%81-%D1%80%D0%BE%D0%B7%D1%8B%D0%B3%D1%80%D1%8B%D1%88%D0%B0-clay-be64e6cbb7f5)
+- [Translation - BitCanna пул для чемпионата мира по футболу 2022](https://bondedzone.medium.com/bitcanna-%D0%BF%D1%83%D0%BB-%D0%B4%D0%BB%D1%8F-%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82%D0%B0-%D0%BC%D0%B8%D1%80%D0%B0-%D0%BF%D0%BE-%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83-2022-c4996afcbb12)
+- [Translation - Анонс CosmWasm тестнета на BitSong](https://bondedzone.medium.com/%D0%B0%D0%BD%D0%BE%D0%BD%D1%81-cosmwasm-%D1%82%D0%B5%D1%81%D1%82%D0%BD%D0%B5%D1%82%D0%B0-%D0%BD%D0%B0-bitsong-aeccbbf6d0e5)
 - [Translation - RIZON: обзор 2022 года и новое приключение](https://bondedzone.medium.com/rizon-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-2022-%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B8-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5-%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-fda9b2ec7d31)
 - [Translation - Ежемесячный дайджест BitCanna — август 2022](https://bondedzone.medium.com/%D0%B5%D0%B6%D0%B5%D0%BC%D0%B5%D1%81%D1%8F%D1%87%D0%BD%D1%8B%D0%B9-%D0%B4%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82-bitcanna-%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82-2022-21a4cb4de7a0)
 - [Translation - Анонс обновления RIZON GARGANTUA](https://bondedzone.medium.com/%D0%B0%D0%BD%D0%BE%D0%BD%D1%81-%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-rizon-gargantua-f7f5ca7ad7e)
