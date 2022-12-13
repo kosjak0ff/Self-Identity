@@ -13,17 +13,17 @@
 
 ## Mainnets:
 - [BitCanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper1yyps9aer7ldm8tjayft68q8ay5l4nch0waf4yh)
-- [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper1pkepjd307346zadmlxpvs9wqrghkx735v0ehge)
+- [BitSong](https://www.mintscan.io/bitsong/validators/bitsongvaloper1pkepjd307346zadmlxpvs9wqrghkx735v0ehge)
 - [Desmos](https://www.mintscan.io/desmos/validators/desmosvaloper13has6wzwyfyuq6r9j48cwugl6ajqw44gv0fa6k)
 - [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1vmgq4nsyc5e8x699k0y7nme3c6egdlv5ahj3xu)
-- [Mises](https://gw.mises.site/validators)
+- [Mises](https://explorer.stavr.tech/mises/staking/misesvaloper1edkk3yut79ef27ev7g7aap02dyfmyp8r85lt3q)
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1jnjg9fl5hflwgjyu9vrht3j52nn68yjesxaqmr)
 
 
 ## Active Testnets:
 - [Okp4](https://nemeton.okp4.network/leaderboard#leaderboard)
-- [Desmos](https://www.mintscan.io/desmos/validators/desmosvaloper13has6wzwyfyuq6r9j48cwugl6ajqw44gv0fa6k)
-- [BitCanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper1yyps9aer7ldm8tjayft68q8ay5l4nch0waf4yh)
+- [Desmos](https://morpheus.desmos.network/validators/desmosvaloper1y7rmhvep06d9elxjzypasj00ajv3uf0dgyn6el)
+- [BitCanna](https://testnet.ping.pub/bitcanna/staking/bcnavaloper14vy4wdx5e8q8us456kqzcejcvxsk2dnmj8np7t)
 - [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1q4vdlk6ty7g04nylnnqdws8dffxtyns4l9uf9t)
 - [Multichain](https://testnet.multichain.tools/)
 - [Terp Network](https://www.skynetexplorers.com/terpnetwork/staking/terpvaloper105rzlcracxe9r32h8flpn4kpw8waqueqj7xlcz)
