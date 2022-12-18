@@ -1,8 +1,8 @@
-![bonded_zone](https://user-images.githubusercontent.com/38581319/153678113-306bef03-ec56-412a-a86e-64d2aa6a9337.png)
+<img src="https://user-images.githubusercontent.com/38581319/153678113-306bef03-ec56-412a-a86e-64d2aa6a9337.png" alt="bonded_zone" width="400"/>
 
 # Validator bonded.zone
 
-### Contacts:
+## Contacts
 - [Medium](https://bondedzone.medium.com/)
 - [Twitter](https://twitter.com/SKosjakoff)
 - [Telegram](https://t.me/kosjakoff)
@@ -12,7 +12,7 @@
 
 ---
 
-### Mainnets:
+## Mainnets
 - [BitCanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper1yyps9aer7ldm8tjayft68q8ay5l4nch0waf4yh)
 - [BitSong](https://www.mintscan.io/bitsong/validators/bitsongvaloper1pkepjd307346zadmlxpvs9wqrghkx735v0ehge)
 - [Desmos](https://www.mintscan.io/desmos/validators/desmosvaloper13has6wzwyfyuq6r9j48cwugl6ajqw44gv0fa6k)
@@ -22,7 +22,7 @@
 
 ---
 
-### Active Testnets:
+## Active Testnets
 - [Gitopia](https://explorer.gitopia.com/validators/gitopiavaloper1aj3jvnk7z2wglyshlt49x9unwq755nzlmjj2u0)
 - [Okp4](https://okp4.explorers.guru/validator/okp4valoper10ethqu3jh7etkplzywc8gw62dv77mc3qz54ufw)
 - [Desmos](https://morpheus.desmos.network/validators/desmosvaloper1y7rmhvep06d9elxjzypasj00ajv3uf0dgyn6el)
@@ -44,7 +44,7 @@
 
 ---
 
-### Finished Testnets:
+## Finished Testnets
 - [DWS](https://explore.deweb.services/deweb/staking/dewebvaloper1qnmxn96dgv8h09vtf8ke4sj3u7970eafurgk2j)
 - [Obol](https://goerli.beaconcha.in/validator/0xb694a735117eaf0665a1b75dad154dc47d4ba5bbb29a792784834add2c44f6d4cc4247b90d31b0699cd71004ab90b061#deposits)
 - [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1n4wscfmgzrx2l0ynefnt90ehmy0uyplukfh979)
@@ -86,7 +86,7 @@
 
 ---
 
-### Contributions
+## Contributions
 
 <details> 
 <summary><b>Technical</b></summary>
@@ -150,7 +150,7 @@
 
 ---
 
-### Other Activities:
+## Other Activities
 I’m admin in this Telegram groups and channels:
 - [RIZON ($ATOLO)](https://t.me/rizon_atolo_ru)
 - [Cosmos Ecosystem News ru](https://t.me/CosmosEcosystemNews_ru)
