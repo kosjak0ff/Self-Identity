@@ -86,13 +86,17 @@
 
 ## Contributions
 
-### Technical
+<details> 
+<summary><b>Technical</b></summary>
+
 - [State-Sync service](https://sync.bonded.zone/)
 - [Guide - How to setup Klever validator](https://bondedzone.medium.com/how-to-setup-klever-validator-ff58b502e64d)
 - [Guide - Configure State-Sync for the Rizon mainnet](https://bondedzone.medium.com/configure-state-sync-for-the-rizon-mainnet-9e1fd8c05d1f)
+</details>
 
+<details> 
+<summary><b>Community</b></summary>
 
-### Community
 - [Translation - RIZON CosmWasm Smart Contract тестнет](https://bondedzone.medium.com/rizon-cosmwasm-smart-contract-%D1%82%D0%B5%D1%81%D1%82%D0%BD%D0%B5%D1%82-70f77d61e7cb)
 - [Translation - Анонс выпуска стейблкойна RIZON (RCHF)](https://bondedzone.medium.com/%D0%B0%D0%BD%D0%BE%D0%BD%D1%81-%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B0-%D1%81%D1%82%D0%B5%D0%B9%D0%B1%D0%BB%D0%BA%D0%BE%D0%B9%D0%BD%D0%B0-rizon-rchf-8d8d7817187b)
 - [Translation - Ежемесячный дайджест BitCanna — ноябрь 2022](https://bondedzone.medium.com/%D0%B5%D0%B6%D0%B5%D0%BC%D0%B5%D1%81%D1%8F%D1%87%D0%BD%D1%8B%D0%B9-%D0%B4%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82-bitcanna-%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8C-2022-6cff43722bc9)
@@ -140,10 +144,10 @@
 - [Translation - Завершение официального события Horizon (a.k.a AtoloSwap)](https://bondedzone.medium.com/%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-c%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F-horizon-a-k-a-atoloswap-7f2eb409efde)
 - [Translation - Представляем Archway в сети Cosmos](https://bondedzone.medium.com/%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC-archway-%D0%B2-%D1%81%D0%B5%D1%82%D0%B8-cosmos-d11c9bdd06b5)
 - [Translation - Hdac Technology выпускает Стейблкоин в соответствии с финансовым регулированием Швейцарии](https://bondedzone.medium.com/hdac-technology-%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B0%D0%B5%D1%82-%D1%81%D1%82%D0%B5%D0%B9%D0%BB%D0%B1%D0%BA%D0%BE%D0%B8%D0%BD-%D0%B2-%D1%81%D0%BE%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B8-%D1%81-%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%BC-%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC-%D1%88%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D0%B8-44816caa8934)
-
+</details> 
 ---
 
-## Other Activities:
+### Other Activities:
 I’m admin in this Telegram groups and channels:
 - [RIZON ($ATOLO)](https://t.me/rizon_atolo_ru)
 - [Cosmos Ecosystem News ru](https://t.me/CosmosEcosystemNews_ru)
