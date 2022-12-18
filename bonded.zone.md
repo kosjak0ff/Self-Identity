@@ -10,6 +10,7 @@
 - [Web-page](https://bonded.zone/)
 - [Keybase](https://keybase.io/kosjakoff)
 
+---
 
 ## Mainnets:
 - [BitCanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper1yyps9aer7ldm8tjayft68q8ay5l4nch0waf4yh)
@@ -21,7 +22,8 @@
 
 
 ## Active Testnets:
-- [Okp4](https://nemeton.okp4.network/leaderboard#leaderboard)
+- [Gitopia](https://explorer.gitopia.com/validators/gitopiavaloper1aj3jvnk7z2wglyshlt49x9unwq755nzlmjj2u0)
+- [Okp4](https://okp4.explorers.guru/validator/okp4valoper10ethqu3jh7etkplzywc8gw62dv77mc3qz54ufw)
 - [Desmos](https://morpheus.desmos.network/validators/desmosvaloper1y7rmhvep06d9elxjzypasj00ajv3uf0dgyn6el)
 - [BitCanna](https://testnet.ping.pub/bitcanna/staking/bcnavaloper14vy4wdx5e8q8us456kqzcejcvxsk2dnmj8np7t)
 - [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1q4vdlk6ty7g04nylnnqdws8dffxtyns4l9uf9t)
@@ -80,6 +82,8 @@
 - [Stratos](https://big-dipper-test.thestratos.org/validator/stvaloper1zamjm637j9ktphx8d363am3ayqw9ecfn8g8nms)
 - [SSV](https://ssv.network/)
 
+---
+
 ## Contributions
 
 ### Technical
@@ -137,9 +141,11 @@
 - [Translation - Представляем Archway в сети Cosmos](https://bondedzone.medium.com/%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC-archway-%D0%B2-%D1%81%D0%B5%D1%82%D0%B8-cosmos-d11c9bdd06b5)
 - [Translation - Hdac Technology выпускает Стейблкоин в соответствии с финансовым регулированием Швейцарии](https://bondedzone.medium.com/hdac-technology-%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B0%D0%B5%D1%82-%D1%81%D1%82%D0%B5%D0%B9%D0%BB%D0%B1%D0%BA%D0%BE%D0%B8%D0%BD-%D0%B2-%D1%81%D0%BE%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B8-%D1%81-%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%BC-%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC-%D1%88%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D0%B8-44816caa8934)
 
+---
 
 ## Other Activities:
 I’m admin in this Telegram groups and channels:
-- [https://t.me/rizon_atolo_ru](https://t.me/rizon_atolo_ru)
-- [https://t.me/CosmosEcosystemNews_ru](https://t.me/CosmosEcosystemNews_ru)
-- [https://t.me/DVSynctems](https://t.me/DVSynctems)
+- [RIZON ($ATOLO)](https://t.me/rizon_atolo_ru)
+- [Cosmos Ecosystem News ru](https://t.me/CosmosEcosystemNews_ru)
+- [Distributed Validators Synctems chat](https://t.me/DVSynctems)
+- [Bitsong RU](https://t.me/bitsongru)
