@@ -10,8 +10,6 @@
 - [Web-page](https://bonded.zone/)
 - [Keybase](https://keybase.io/kosjakoff)
 
----
-
 ## Mainnets
 - [BitCanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper1yyps9aer7ldm8tjayft68q8ay5l4nch0waf4yh)
 - [BitSong](https://www.mintscan.io/bitsong/validators/bitsongvaloper1pkepjd307346zadmlxpvs9wqrghkx735v0ehge)
@@ -19,8 +17,6 @@
 - [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1vmgq4nsyc5e8x699k0y7nme3c6egdlv5ahj3xu)
 - [Mises](https://explorer.stavr.tech/mises/staking/misesvaloper1edkk3yut79ef27ev7g7aap02dyfmyp8r85lt3q)
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1jnjg9fl5hflwgjyu9vrht3j52nn68yjesxaqmr)
-
----
 
 ## Active Testnets
 - [Gitopia](https://explorer.gitopia.com/validators/gitopiavaloper1aj3jvnk7z2wglyshlt49x9unwq755nzlmjj2u0)
@@ -41,8 +37,6 @@
 - [Celestia](https://celestia.explorers.guru/validator/celestiavaloper1g4vlhwtjym0t6vpaxr3eyp78nkekxgx2vjhjf9)
 - [Massa](https://massa.net/)
 - [Minima](https://minima.global/)
-
----
 
 ## Finished Testnets
 - [DWS](https://explore.deweb.services/deweb/staking/dewebvaloper1qnmxn96dgv8h09vtf8ke4sj3u7970eafurgk2j)
@@ -83,8 +77,6 @@
 - [Umee](https://www.umee.cc/)
 - [Stratos](https://big-dipper-test.thestratos.org/validator/stvaloper1zamjm637j9ktphx8d363am3ayqw9ecfn8g8nms)
 - [SSV](https://ssv.network/)
-
----
 
 ## Contributions
 
@@ -147,8 +139,6 @@
 - [Translation - Представляем Archway в сети Cosmos](https://bondedzone.medium.com/%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC-archway-%D0%B2-%D1%81%D0%B5%D1%82%D0%B8-cosmos-d11c9bdd06b5)
 - [Translation - Hdac Technology выпускает Стейблкоин в соответствии с финансовым регулированием Швейцарии](https://bondedzone.medium.com/hdac-technology-%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B0%D0%B5%D1%82-%D1%81%D1%82%D0%B5%D0%B9%D0%BB%D0%B1%D0%BA%D0%BE%D0%B8%D0%BD-%D0%B2-%D1%81%D0%BE%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B8-%D1%81-%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%BC-%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC-%D1%88%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D0%B8-44816caa8934)
 </details> 
-
----
 
 ## Other Activities
 I’m admin in this Telegram groups and channels:
