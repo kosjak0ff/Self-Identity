@@ -2,7 +2,7 @@
 
 # Validator bonded.zone
 
-## Contacts:
+### Contacts:
 - [Medium](https://bondedzone.medium.com/)
 - [Twitter](https://twitter.com/SKosjakoff)
 - [Telegram](https://t.me/kosjakoff)
@@ -12,7 +12,7 @@
 
 ---
 
-## Mainnets:
+### Mainnets:
 - [BitCanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper1yyps9aer7ldm8tjayft68q8ay5l4nch0waf4yh)
 - [BitSong](https://www.mintscan.io/bitsong/validators/bitsongvaloper1pkepjd307346zadmlxpvs9wqrghkx735v0ehge)
 - [Desmos](https://www.mintscan.io/desmos/validators/desmosvaloper13has6wzwyfyuq6r9j48cwugl6ajqw44gv0fa6k)
@@ -20,8 +20,9 @@
 - [Mises](https://explorer.stavr.tech/mises/staking/misesvaloper1edkk3yut79ef27ev7g7aap02dyfmyp8r85lt3q)
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1jnjg9fl5hflwgjyu9vrht3j52nn68yjesxaqmr)
 
+---
 
-## Active Testnets:
+### Active Testnets:
 - [Gitopia](https://explorer.gitopia.com/validators/gitopiavaloper1aj3jvnk7z2wglyshlt49x9unwq755nzlmjj2u0)
 - [Okp4](https://okp4.explorers.guru/validator/okp4valoper10ethqu3jh7etkplzywc8gw62dv77mc3qz54ufw)
 - [Desmos](https://morpheus.desmos.network/validators/desmosvaloper1y7rmhvep06d9elxjzypasj00ajv3uf0dgyn6el)
@@ -41,8 +42,9 @@
 - [Massa](https://massa.net/)
 - [Minima](https://minima.global/)
 
+---
 
-## Finished Testnets:
+### Finished Testnets:
 - [DWS](https://explore.deweb.services/deweb/staking/dewebvaloper1qnmxn96dgv8h09vtf8ke4sj3u7970eafurgk2j)
 - [Obol](https://goerli.beaconcha.in/validator/0xb694a735117eaf0665a1b75dad154dc47d4ba5bbb29a792784834add2c44f6d4cc4247b90d31b0699cd71004ab90b061#deposits)
 - [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1n4wscfmgzrx2l0ynefnt90ehmy0uyplukfh979)
@@ -84,7 +86,7 @@
 
 ---
 
-## Contributions
+### Contributions
 
 <details> 
 <summary><b>Technical</b></summary>
@@ -145,6 +147,7 @@
 - [Translation - Представляем Archway в сети Cosmos](https://bondedzone.medium.com/%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC-archway-%D0%B2-%D1%81%D0%B5%D1%82%D0%B8-cosmos-d11c9bdd06b5)
 - [Translation - Hdac Technology выпускает Стейблкоин в соответствии с финансовым регулированием Швейцарии](https://bondedzone.medium.com/hdac-technology-%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B0%D0%B5%D1%82-%D1%81%D1%82%D0%B5%D0%B9%D0%BB%D0%B1%D0%BA%D0%BE%D0%B8%D0%BD-%D0%B2-%D1%81%D0%BE%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B8-%D1%81-%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%BC-%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC-%D1%88%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D0%B8-44816caa8934)
 </details> 
+
 ---
 
 ### Other Activities:
