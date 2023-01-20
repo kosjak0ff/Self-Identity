@@ -1,8 +1,9 @@
-<img src="https://user-images.githubusercontent.com/38581319/153678113-306bef03-ec56-412a-a86e-64d2aa6a9337.png" alt="bonded_zone" width="400"/>
-
 # Validator bonded.zone
 
+<img src="https://user-images.githubusercontent.com/38581319/153678113-306bef03-ec56-412a-a86e-64d2aa6a9337.png" alt="bonded_zone" width="400"/>
+
 ## Contacts
+
 - [Medium](https://bondedzone.medium.com/)
 - [Twitter](https://twitter.com/SKosjakoff)
 - [Telegram](https://t.me/kosjakoff)
@@ -11,14 +12,17 @@
 - [Keybase](https://keybase.io/kosjakoff)
 
 ## Mainnets
+
 - [BitCanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper1yyps9aer7ldm8tjayft68q8ay5l4nch0waf4yh)
 - [BitSong](https://www.mintscan.io/bitsong/validators/bitsongvaloper1pkepjd307346zadmlxpvs9wqrghkx735v0ehge)
 - [Desmos](https://www.mintscan.io/desmos/validators/desmosvaloper13has6wzwyfyuq6r9j48cwugl6ajqw44gv0fa6k)
-- [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1vmgq4nsyc5e8x699k0y7nme3c6egdlv5ahj3xu)
 - [Mises](https://explorer.stavr.tech/mises/staking/misesvaloper1edkk3yut79ef27ev7g7aap02dyfmyp8r85lt3q)
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1jnjg9fl5hflwgjyu9vrht3j52nn68yjesxaqmr)
 
 ## Active Testnets
+
+- [Nibiru](https://nibiru.explorers.guru/validator/nibivaloper1xhdfnr7uxyc6epdqjks0yhxsvt0ss6eqj6qheh)
+- [Fleek](https://fleek.xyz/)
 - [Gitopia](https://explorer.gitopia.com/validators/gitopiavaloper1aj3jvnk7z2wglyshlt49x9unwq755nzlmjj2u0)
 - [Okp4](https://okp4.explorers.guru/validator/okp4valoper10ethqu3jh7etkplzywc8gw62dv77mc3qz54ufw)
 - [Desmos](https://morpheus.desmos.network/validators/desmosvaloper1y7rmhvep06d9elxjzypasj00ajv3uf0dgyn6el)
@@ -33,12 +37,14 @@
 - [Sei](https://sei.explorers.guru/validator/seivaloper1690wke4r04xk5mfuwmtst3eue26cd6qf5xnht7)
 - [Peaq](https://www.peaq.network/agung-testnet)
 - [Gear](https://www.gear-tech.io/)
-- [Masa](https://masa.finance/)
 - [Celestia](https://celestia.explorers.guru/validator/celestiavaloper1g4vlhwtjym0t6vpaxr3eyp78nkekxgx2vjhjf9)
 - [Massa](https://massa.net/)
 - [Minima](https://minima.global/)
 
 ## Finished Testnets
+
+- [Masa](https://masa.finance/)
+- [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1vmgq4nsyc5e8x699k0y7nme3c6egdlv5ahj3xu)
 - [DWS](https://explore.deweb.services/deweb/staking/dewebvaloper1qnmxn96dgv8h09vtf8ke4sj3u7970eafurgk2j)
 - [Obol](https://goerli.beaconcha.in/validator/0xb694a735117eaf0665a1b75dad154dc47d4ba5bbb29a792784834add2c44f6d4cc4247b90d31b0699cd71004ab90b061#deposits)
 - [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1n4wscfmgzrx2l0ynefnt90ehmy0uyplukfh979)
@@ -80,15 +86,16 @@
 
 ## Contributions
 
-<details> 
+<details>
 <summary><b>Technical</b></summary>
 
 - [State-Sync service](https://sync.bonded.zone/)
 - [Guide - How to setup Klever validator](https://bondedzone.medium.com/how-to-setup-klever-validator-ff58b502e64d)
 - [Guide - Configure State-Sync for the Rizon mainnet](https://bondedzone.medium.com/configure-state-sync-for-the-rizon-mainnet-9e1fd8c05d1f)
+
 </details>
 
-<details> 
+<details>
 <summary><b>Community</b></summary>
 
 - [Translation - RIZON CosmWasm Smart Contract тестнет](https://bondedzone.medium.com/rizon-cosmwasm-smart-contract-%D1%82%D0%B5%D1%81%D1%82%D0%BD%D0%B5%D1%82-70f77d61e7cb)
@@ -138,10 +145,13 @@
 - [Translation - Завершение официального события Horizon (a.k.a AtoloSwap)](https://bondedzone.medium.com/%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-c%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F-horizon-a-k-a-atoloswap-7f2eb409efde)
 - [Translation - Представляем Archway в сети Cosmos](https://bondedzone.medium.com/%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC-archway-%D0%B2-%D1%81%D0%B5%D1%82%D0%B8-cosmos-d11c9bdd06b5)
 - [Translation - Hdac Technology выпускает Стейблкоин в соответствии с финансовым регулированием Швейцарии](https://bondedzone.medium.com/hdac-technology-%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B0%D0%B5%D1%82-%D1%81%D1%82%D0%B5%D0%B9%D0%BB%D0%B1%D0%BA%D0%BE%D0%B8%D0%BD-%D0%B2-%D1%81%D0%BE%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B8-%D1%81-%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%BC-%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC-%D1%88%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D0%B8-44816caa8934)
-</details> 
+
+</details>
 
 ## Other Activities
+
 I’m admin in this Telegram groups and channels:
+
 - [RIZON ($ATOLO)](https://t.me/rizon_atolo_ru)
 - [Cosmos Ecosystem News ru](https://t.me/CosmosEcosystemNews_ru)
 - [Distributed Validators Synctems chat](https://t.me/DVSynctems)
