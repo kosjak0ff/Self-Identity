@@ -21,7 +21,6 @@
 
 ## Active Testnets
 
-- [Nibiru](https://nibiru.explorers.guru/validator/nibivaloper1xhdfnr7uxyc6epdqjks0yhxsvt0ss6eqj6qheh)
 - [Fleek](https://fleek.xyz/)
 - [Gitopia](https://explorer.gitopia.com/validators/gitopiavaloper1aj3jvnk7z2wglyshlt49x9unwq755nzlmjj2u0)
 - [Okp4](https://okp4.explorers.guru/validator/okp4valoper10ethqu3jh7etkplzywc8gw62dv77mc3qz54ufw)
@@ -43,6 +42,7 @@
 
 ## Finished Testnets
 
+- [Nibiru](https://nibiru.explorers.guru/validator/nibivaloper1xhdfnr7uxyc6epdqjks0yhxsvt0ss6eqj6qheh)
 - [Masa](https://masa.finance/)
 - [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1vmgq4nsyc5e8x699k0y7nme3c6egdlv5ahj3xu)
 - [DWS](https://explore.deweb.services/deweb/staking/dewebvaloper1qnmxn96dgv8h09vtf8ke4sj3u7970eafurgk2j)
